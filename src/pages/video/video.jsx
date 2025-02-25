@@ -1,7 +1,12 @@
 import React from 'react'
 import './video.css'
-export const video = () => {
+
+const video = () => {
   return (
-    <div>video</div>
+    <div>
+
+    </div>
   )
 }
+
+export default video
