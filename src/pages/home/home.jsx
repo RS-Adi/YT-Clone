@@ -1,12 +1,12 @@
 import React from 'react'
-import './home.css'
+import './Home.css'
 
-const home = () => {
+const Home = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+      <Sidebar/>
+    </>
   )
 }
 
-export default home
+export default Home
