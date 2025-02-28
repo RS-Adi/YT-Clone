@@ -4,7 +4,7 @@ import './Video.css'
 const Video = () => {
   return (
     <div>
-
+      
     </div>
   )
 }
