@@ -13,7 +13,7 @@ import { Link } from 'react-router-dom'
 const Feed = () => {
   return (
     <div className="feed">
-         <Link to={`geetha/20/4521`} className='card'>
+         <Link to={`video/20/4521`} className='card'>
             <img src={thumbnail1} alt="" />
             <h2>This is the demo clone for youtube</h2>
             <h3>Adi Narayana Repudi</h3>
