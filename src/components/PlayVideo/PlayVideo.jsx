@@ -39,7 +39,7 @@ const PlayVideo = () => {
             <div className="comment">
                 <img src={user_profile} alt=''/>
                 <div>
-                    <h3>Geetha Akula <span> 1 Day ago</span></h3>
+                    <h3>Geetha Akula <span> 3 Day ago</span></h3>
                     <p>This looks very good Adi, nice job keep it up</p>
                     <div className="comment-action">
                         <img src={like} alt=""/>
